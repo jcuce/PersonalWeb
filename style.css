@@ -1,0 +1,11 @@
+.img-fluid{
+    border-radius: 40px;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+
